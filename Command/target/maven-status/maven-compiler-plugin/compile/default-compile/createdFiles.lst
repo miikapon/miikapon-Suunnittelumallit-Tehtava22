@@ -1,0 +1,6 @@
+command\command\Screen.class
+command\command\ScreenDownCommand.class
+command\command\WallButton.class
+command\command\Command.class
+command\command\Main.class
+command\command\ScreenUpCommand.class
